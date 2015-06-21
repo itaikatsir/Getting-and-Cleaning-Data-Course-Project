@@ -105,7 +105,7 @@ Part 3: Uses descriptive activity names to name the activities in the data set
 •Activity factor is renamed with descriptive activity names.
 •Activity column is assigned the descriptive factors.
 
-Part 4: Appropriately labels the data set with descriptive activity names. Assumption: Descriptive names = descriptive column names. Column names also set in Part 2
+Part 4: Appropriately labels the data set with descriptive activity names. Assumption: Descriptive names = descriptive column names.
 
 Part 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 •Data set created above is transformed into a data table.
