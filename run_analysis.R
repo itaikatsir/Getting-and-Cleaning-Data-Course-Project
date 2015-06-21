@@ -3,7 +3,7 @@
 ## to collect, work with, and clean a data set. 
 ## The goal is to prepare tidy data that can be used for later analysis
 ##########################################################################
-
+ 
 ## Preprocess: Downloading data files
 #####################################
 #fileUrl<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
