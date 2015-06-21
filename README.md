@@ -1,0 +1,2 @@
+# Getting-and-Cleaning-Data-Course-Project
+Getting and Cleaning Data Course Project Github repo with the code for performing analysis. The code have a file run_analysis.R that can be run as long as the Samsung data is in your working directory. The output is the tidy data set submitted for part 1. The README.md in the repo describing how the script works and the code book describing the variables.
